@@ -85,12 +85,6 @@
   ],
   "testimonial": [
     {
-      "name": "Sasha Rose",
-      "company": "Owner, Surveyor Corps",
-      "testimoni": "Thanks for Racxstudio, you guys are the best! Keep up the great work!",
-      "imageUrl": "assets/images/Sasha.jpg"
-    },
-    {
       "name": "Kruger Khan",
       "company": "Director, Shultan Oil",
       "testimoni": "I just wanted to let you know that it’s been great working with Racxstudio.",
@@ -119,6 +113,12 @@
     {
       "name": "Pranay Shakya",
       "position": "CIO",
+      "imageUrl": "assets/images/cio.jpg",
+      "linkedin": "url"
+    },
+    {
+      "name": "Sabin Adhikari",
+      "position": "COO",
       "imageUrl": "assets/images/cio.jpg",
       "linkedin": "url"
     }
