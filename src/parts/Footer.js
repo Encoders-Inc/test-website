@@ -18,8 +18,10 @@ export default function Footer() {
           </div>
           <div className="w-1/3 mt-0 ml-16 mr-0 sm:ml-0 sm:mr-5">
             <h1 className="text-lg text-theme-blue pt-4 pb-2">Office</h1>
-            <p className="text-lg text-gray-400 font-light">
-              Info@Encodersinc.com.np
+            <p className="text-lg text-gray-400 font-light email-link">
+              <a href="mailto:contact@encodersinc.com.np">
+                contact@encodersinc.com.np
+              </a>
             </p>
             <p className="text-lg text-gray-400 font-light">Pokhara,Nepal</p>
           </div>
