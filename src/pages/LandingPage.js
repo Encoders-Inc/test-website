@@ -21,6 +21,8 @@ export default class LandingPage extends Component {
   render() {
     return (
       <>
+        {" "}
+        .
         <Header {...this.props} />
         <Hero {...this.props} />
         <Service data={Data.service} />

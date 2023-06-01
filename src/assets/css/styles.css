@@ -168,3 +168,23 @@ section {
   text-decoration: none !important;
   color: #f7c100;
 }
+.image-team {
+  height: 230px;
+  object-fit: cover;
+}
+.position-center {
+  text-align: center;
+  margin: 3px;
+  color: #413d43 !important;
+}
+.text-color {
+  color: #a29fa4 !important;
+}
+.card-main {
+  margin-bottom: 15% !important;
+}
+.card-main:hover {
+  box-shadow: rgba(33, 33, 33, 0.2) !important;
+  transform: scale(1.03) !important;
+  transition: 0.2ms !important;
+}

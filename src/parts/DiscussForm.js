@@ -35,10 +35,10 @@ export default function DiscussForm(props) {
     ) {
       emailjs
         .send(
-          "service_26isq0g",
-          "template_2uhqrdk",
+          "service_u9dvj7s",
+          "template_x7urbhx",
           templateParams,
-          "1igI8jX47lDb6IALh"
+          "Wax3NCRwRDKDleyUg"
         )
         .then(
           () => {

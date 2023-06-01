@@ -141,11 +141,11 @@ export default function Header(props) {
             </li>
             <li className="mx-auto my-9 bg-white">
               <Button
-                className="mx-auto px-5 py-2 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200"
+                className="mx-auto px-5 py-2 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200 career-button"
                 type="link"
-                href="/discuss-project"
+                href="/career"
               >
-                Discuss Project
+                Career
               </Button>
             </li>
           </ul>

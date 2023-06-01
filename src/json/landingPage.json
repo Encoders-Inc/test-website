@@ -106,7 +106,26 @@
     {
       "name": "Sabin Adhikari",
       "position": "COO",
-      "imageUrl": "assets/images/cio.jpg",
+      "imageUrl": "assets/images/coo.jpg",
+      "linkedin": "url"
+    },
+    {
+      "name": "Simanta Baral",
+      "position": "Product Engineer",
+      "imageUrl": "assets/images/pe.jpeg",
+      "linkedin": "url"
+    },
+    {
+      "name": "Bikash Kandel",
+      "position": "Business Analyst",
+      "imageUrl": "assets/images/ba.jpg",
+      "linkedin": "url"
+    },
+
+    {
+      "name": "Sushant Dhungana",
+      "position": "Software Engineer",
+      "imageUrl": "assets/images/fd.jpg",
       "linkedin": "url"
     }
   ],
