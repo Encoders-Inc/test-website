@@ -58,7 +58,7 @@ export default function Footer() {
         </div>
         <div className="flex-col text-center mt-7">
           <p className="text-lg text-gray-400 font-light">
-            Copyright 2021 - All rights reserved - Encoders Inc.
+            Copyright 2023 - All rights reserved - Encoders Inc.
           </p>
         </div>
       </div>
