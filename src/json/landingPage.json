@@ -86,12 +86,6 @@
   "testimonial": [],
   "team": [
     {
-      "name": "Avishek Subedi",
-      "position": "CEO/CTO",
-      "imageUrl": "assets/images/CEO.jpg",
-      "linkedin": "url"
-    },
-    {
       "name": "Sushil Baral",
       "position": "MD",
       "imageUrl": "assets/images/md.jpg",
